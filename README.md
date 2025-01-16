@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sameer-tech1240](https://github.com/sameer-tech1240)
 
-- 📫 How to reach me **sameersiddiqui1240@gmail.com**
+- 📫 How to reach me **sameer.tech953@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
