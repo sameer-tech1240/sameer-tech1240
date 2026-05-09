@@ -1,30 +1,152 @@
-<h1 align="center">Hi 👋, I'm Sameer Siddiqui</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+# Hi 👋, I'm Sameer Siddiqui
 
-<img align="right" alt="" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h3 align="center">Java Backend Developer | Software Engineer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-tech1240&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-tech1240" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Spring Boot**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sameer-tech1240](https://github.com/sameer-tech1240)
-
-- 📫 How to reach me **sameer.tech953@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sameer-s-65b7b265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-s-65b7b265" height="30" width="40" /></a>
-<a href="https://instagram.com/sameer_siddiqui967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameer_siddiqui967" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Passionate+Java+Backend+Developer;Spring+Boot+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer-tech1240&show_icons=true&locale=en&layout=compact" alt="sameer-tech1240" /></p>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer-tech1240&show_icons=true&locale=en" alt="sameer-tech1240" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-tech1240&" alt="sameer-tech1240" /></p>
+- 💻 Passionate about **Backend Development**
+- 🌱 Currently learning **Spring Boot & Microservices**
+- 🔥 Interested in **Java Ecosystem & Scalable Systems**
+- 🚀 Building real-world backend applications
+- 📚 Improving my **DSA & Problem Solving Skills**
+- ⚡ Fun fact: I enjoy converting ideas into applications
 
+<br>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/sameer-s-65b7b265" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="45" width="45" />
+</a>
+
+<a href="https://instagram.com/sameer_siddiqui967" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="45" width="45" />
+</a>
+
+<a href="mailto:sameer.tech953@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="45" width="45" />
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,javascript,angular,git,github,postman,vscode,c" />
+
+</p>
+
+---
+
+## 💻 Tech Expertise
+
+```yaml
+Backend Development:
+  - Java
+  - Spring Boot
+  - REST APIs
+  - Hibernate
+  - JDBC
+
+Frontend Development:
+  - HTML
+  - CSS
+  - JavaScript
+  - Angular
+
+Database:
+  - MySQL
+
+Tools & Platforms:
+  - Git
+  - GitHub
+  - VS Code
+  - Postman
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sameer-tech1240&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-tech1240&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-tech1240&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sameer-tech1240&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer-tech1240&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## ✨ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sameer-tech1240&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+## 💖 Support
+
+<p align="center">
+  <a href="https://github.com/sameer-tech1240">
+    <img src="https://img.shields.io/badge/Follow%20Me%20On%20GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Crafted with passion by Sameer Siddiqui
+</h3>
